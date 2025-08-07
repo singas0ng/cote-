@@ -45,7 +45,3 @@ class Solution {
         return answer;
     }
 }
-
-
-
-// 그래도 answer 을 배열로 바꾸는거랑 answer 에 곱하기 값 넣어주는건 칭찬해~
